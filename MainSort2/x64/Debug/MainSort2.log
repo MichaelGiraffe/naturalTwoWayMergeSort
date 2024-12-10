@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\АД\MainSort2\MainSort2\main.cpp(17,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\АД\MainSort2\MainSort2\main.cpp(222,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\АД\MainSort2\MainSort2\main.cpp(293,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  MainSort2.vcxproj -> E:\АД\MainSort2\x64\Debug\MainSort2.exe
